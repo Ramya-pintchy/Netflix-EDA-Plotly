@@ -9,7 +9,7 @@ This project analyzes Netflix's dataset of movies and TV Shows to explore trends
 - [ ] Eye-Catching visualization using Mathplotlib, seaborn.
 
 ## Dataset
-The dataset is sourced from Kaggle !().
+The dataset is sourced from Kaggle.
 It contains the following key columns:
 
 - **Title:** Name of the movie or TV show.
