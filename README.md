@@ -1,7 +1,7 @@
 # Netflix-EDA-Plotly
 ## Introduction
 This project analyzes Netflix's dataset of movies and TV Shows to explore trends, patterns,  and insights. By leveraging Python and Plotly, I created interactive visualizations to present key findings on the distribution of content, genres, ratings, release years, and more.
-![](Netflix_pic.jpg)
+![](images/Netflix_pic.jpg)
 
 ## Features
 - [x] Comprehensive analysis of Netflix's dataset.
@@ -52,3 +52,5 @@ It contains the following key columns:
 3. Run the Kaggle notebook or Python Script to view the analysis.
 
 ## Some of the visualizations:
+1. Top 10 countries contributing to the content of netfix.
+   ![](images/i1.png)
