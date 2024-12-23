@@ -51,6 +51,9 @@ It contains the following key columns:
    pip install -r requirements.txt
 3. Run the Kaggle notebook or Python Script to view the analysis.
 
+## Link:
+link to my kaggle notebook: ![](https://www.kaggle.com/code/ramyapintchy/netflix-eda-python-analysis-py)
+
 ## Some of the visualizations:
 1. Top 10 countries contributing to the content of netfix.
    ![](images/i1.png)
@@ -58,3 +61,22 @@ It contains the following key columns:
    ![](images/i5.png)
 4. Top genres of Movies vs TV Shows contributing individually to the Netflix content.
    ![](images/i3.png)
+
+## Insights and Findings:
+- **Movies dominate** Netflix’s content library, making up **~70%** of the total.
+- **Dramas and Comedies** are the most popular genres.
+- A significant growth in content addition was observed post-2015.
+- **United States, India, and United Kingdom** are leading contributors to Netflix's catalog.
+
+## Future Work:
+- Explore additional datasets, like IMDb ratings, for richer insights.
+- Add machine learning models to predict genres or ratings.
+- Implement dashboards for real-time updates.
+
+## Contributing:
+Contributions are welcome! Please submit a pull request or open an issue for suggestions.
+
+## License 
+This project is licensed under the MIT License.
+
+
