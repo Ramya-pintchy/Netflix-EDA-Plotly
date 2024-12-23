@@ -54,3 +54,9 @@ It contains the following key columns:
 ## Some of the visualizations:
 1. Top 10 countries contributing to the content of netfix.
    ![](images/i1.png)
+2. Popular genre types
+   ![](images/i2.png)
+3. Top 10 countries contributing to the individual age category.
+   ![](images/i3.png)
+4. Top genres of Movies vs TV Shows contributing individually to the Netflix content.
+   ![](images/i4.png)
